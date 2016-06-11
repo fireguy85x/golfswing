@@ -1,0 +1,38 @@
+{
+    "Round":{
+	"RoundId": "111",
+	"RoundName": "unnamed",
+    "Properties": {
+		"SourceName": "Marbella Golf Country Club",
+		"SourceId": "4",
+		"TotalHoles": 18,
+		"Category": "Training",
+		"Date": "ddmmaaaa"
+		},
+    "TotalStats": {
+		"Scoring": "60",
+		"Scrambling": "9",
+		"Putts": "48"
+		},
+    "Holes": [
+				{ "Hole1": {
+					"Properties": {"Par": "4","Hdcp": "6","Target": [337411.8866,4041643.7787]},
+					"Stats": {"Strokes": "95","Putts": "48","Scramblings": "-2"},
+					"Strokes": [
+								{"id": "221", "Penalties": {"Numbers":"3","Cause":"Lateral water"},"Pos":[337411.8866,4041643.7787],"Shots":"2","isPutt":"no","Club":"Iron7"},
+								{"id": "222", "Penalties": {"Numbers":"0","Cause":"Lateral water"},"Pos":[337412.8869,4041646.7780],"Shots":"1","isPutt":"yes","Club":"Putter"}
+							]
+					}
+				},
+				{ "Hole2": {
+					"Properties":{"Par":"4","Hdcp":"6","Target":[337411.8866,4041643.7787]},
+					"Stats":{"Strokes":"95","Putts":"48","Scramblings":"0"},
+					"Strokes":[
+						{"id": "224","Penalty":{"Numbers":"+3","Cause":"Lateral water"},"Pos":[337411.8866,4041643.7787],"Shots":"2","isPutt":"no","Club":"Iron7"},
+						{"id": "225","Penalty":{"Numbers":"0","Cause":"null"},"Pos":[337412.8869,4041646.7780],"Shots":"1","isPutt":"no","Club":"Iron5"}
+						]
+					}
+				}
+            ]
+		}
+}

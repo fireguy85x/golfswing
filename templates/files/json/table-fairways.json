@@ -1,0 +1,33 @@
+{
+"data":[
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit (%)": 52, "Select Hit": "With Hit", "F.F.left (%)": 5, "Select F.F.left": "With Fails", "F.F.right (%)": 8, "Select F.F.right": "With Fails", "Select Penalties": "With Penalties", "Penalties":2, "Par":4, "Climate":"Favorable climate"}, 
+    {"Year":"2014", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Hit (%)": 52, "Select Hit": "With Hit","F.F.left (%)": 5, "Select F.F.left": "With Fails", "F.F.right (%)": 8, "Select F.F.right": "With Fails", "Select Penalties": "With Penalties", "Penalties":5, "Par":4, "Climate":"Favorable climate"}, 
+    {"Year":"2013", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Hit (%)": 52, "Select Hit": "With Hit","F.F.left (%)": 5, "Select F.F.left": "Not Fails", "F.F.right (%)": 0, "Select F.F.right": "Not Fails", "Select Penalties": "With Penalties", "Penalties":25, "Par":4, "Climate":"Favorable climate"}, 
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit (%)": 52, "Select Hit": "With Hit","F.F.left (%)": 5, "Select F.F.left": "Not Fails", "F.F.right (%)": 2, "Select F.F.right": "With Fails", "Select Penalties": "Not Penalties", "Penalties":0, "Par":4, "Climate":"Wind"}, 
+    {"Year":"2014", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Hit (%)": 52, "Select Hit": "With Hit","F.F.left (%)": 5, "Select F.F.left": "With Fails", "F.F.right (%)": 8, "Select F.F.right": "With Fails", "Select Penalties": "With Penalties", "Penalties":5, "Par":4, "Climate":"Favorable climate"}, 
+    {"Year":"2013", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Hit (%)": 52, "Select Hit": "With Hit","F.F.left (%)": 5, "Select F.F.left": "Not Fails", "F.F.right (%)": 0, "Select F.F.right": "Not Fails", "Select Penalties": "With Penalties", "Penalties":25, "Par":4, "Climate":"Favorable climate"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit (%)": 52, "Select Hit": "With Hit","F.F.left (%)": 5, "Select F.F.left": "Not Fails", "F.F.right (%)": 2, "Select F.F.right": "With Fails", "Select Penalties": "Not Penalties", "Penalties":0, "Par":4, "Climate":"Wind"}, 
+    {"Year":"2014", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Hit (%)": 52, "Select Hit": "With Hit","F.F.left (%)": 5, "Select F.F.left": "With Fails", "F.F.right (%)": 8, "Select F.F.right": "With Fails", "Select Penalties": "With Penalties", "Penalties":5, "Par":5, "Climate":"Favorable climate"}, 
+    {"Year":"2013", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Hit (%)": 0, "Select Hit": "Not Hit","F.F.left (%)": 5, "Select F.F.left": "Not Fails", "F.F.right (%)": 0, "Select F.F.right": "Not Fails", "Select Penalties": "With Penalties", "Penalties":25, "Par":5, "Climate":"Favorable climate"}, 
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit (%)": 0, "Select Hit": "Not Hit","F.F.left (%)": 5, "Select F.F.left": "Not Fails", "F.F.right (%)": 2, "Select F.F.right": "With Fails", "Select Penalties": "Not Penalties", "Penalties":0, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2014", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Hit (%)": 0, "Select Hit": "Not Hit","F.F.left (%)": 5, "Select F.F.left": "With Fails", "F.F.right (%)": 8, "Select F.F.right": "With Fails", "Select Penalties": "With Penalties", "Penalties":5, "Par":5, "Climate":"Favorable climate"}, 
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit (%)": 0, "Select Hit": "Not Hit","F.F.left (%)": 5, "Select F.F.left": "Not Fails", "F.F.right (%)": 2, "Select F.F.right": "With Fails", "Select Penalties": "Not Penalties", "Penalties":0, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2014", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Hit (%)": 0, "Select Hit": "Not Hit","F.F.left (%)": 5, "Select F.F.left": "With Fails", "F.F.right (%)": 8, "Select F.F.right": "With Fails", "Select Penalties": "With Penalties", "Penalties":5, "Par":5, "Climate":"Favorable climate"}, 
+    {"Year":"2013", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Hit (%)": 0, "Select Hit": "Not Hit","F.F.left (%)": 5, "Select F.F.left": "Not Fails", "F.F.right (%)": 0, "Select F.F.right": "Not Fails", "Select Penalties": "With Penalties", "Penalties":25, "Par":5, "Climate":"Favorable climate"}, 
+    {"Year":"2015R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit (%)": 0, "Select Hit": "Not Hit","F.F.left (%)": 5, "Select F.F.left": "Not Fails", "F.F.right (%)": 2, "Select F.F.right": "With Fails", "Select Penalties": "Not Penalties", "Penalties":0, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2014R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Hit (%)": 0, "Select Hit": "Not Hit","F.F.left (%)": 5, "Select F.F.left": "With Fails", "F.F.right (%)": 8, "Select F.F.right": "With Fails", "Select Penalties": "With Penalties", "Penalties":5, "Par":5, "Climate":"Favorable climate"}, 
+    {"Year":"2013R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Hit (%)": 0, "Select Hit": "Not Hit","F.F.left (%)": 5, "Select F.F.left": "Not Fails", "F.F.right (%)": 0, "Select F.F.right": "Not Fails", "Select Penalties": "With Penalties", "Penalties":25, "Par":5, "Climate":"Favorable climate"}
+],
+
+"filterHeaders":
+    {
+        "Year":1,
+        "Select Round":0,
+        "Select F.F.left":0,
+        "Select F.F.right":0,
+        "Select Penalties":0,
+        "Select Hit": 0,
+        "Par":1,
+        "Climate":0
+    }
+}

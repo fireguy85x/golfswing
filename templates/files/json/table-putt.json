@@ -1,0 +1,32 @@
+{
+"data":[
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Putt":5, "Par":4, "Climate":"Wind"}, 
+    {"Year":"2014", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Putt":4, "Par":3, "Climate":"Wind"},
+    {"Year":"2011", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Putt":3, "Par":4, "Climate":"Wind"}, 
+    {"Year":"2002", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Putt":5, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2017", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Putt":5, "Par":4, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Putt":5, "Par":4, "Climate":"Wind"}, 
+    {"Year":"2014", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Putt":4, "Par":3, "Climate":"Wind"},
+    {"Year":"2011", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Putt":3, "Par":4, "Climate":"Wind"}, 
+    {"Year":"2002", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Putt":5, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2017", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Putt":5, "Par":4, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Putt":5, "Par":4, "Climate":"Wind"}, 
+    {"Year":"2014", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Putt":4, "Par":3, "Climate":"Wind"},
+    {"Year":"2011", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Putt":3, "Par":4, "Climate":"Wind"}, 
+    {"Year":"2002", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Putt":5, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2017", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Putt":5, "Par":4, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Putt":5, "Par":4, "Climate":"Wind"}, 
+    {"Year":"2014R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Putt":4, "Par":3, "Climate":"Wind"},
+    {"Year":"2011R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Putt":3, "Par":4, "Climate":"Wind"}, 
+    {"Year":"2002R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Putt":5, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2017R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Putt":5, "Par":4, "Climate":"Wind"}
+],
+
+"filterHeaders":
+    {
+        "Year":1,
+        "Select Round":0,
+        "Par":1,
+        "Climate":1
+    }
+}

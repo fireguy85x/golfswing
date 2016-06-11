@@ -1,0 +1,26 @@
+{
+"data":[
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit(%)": 10, "Left(%)": 10, "Right(%)":20, "Short(%)":30, "Long(%)":30, "Golf clubs": "Iron", "From Distance": 18, "Select distance": "10-20", "Par":5, "Climate":"Wind"},  
+    {"Year":"2013", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit(%)": 15, "Left(%)": 15, "Right(%)":25, "Short(%)":15, "Long(%)":30, "Golf clubs": "Wood", "From Distance": 18, "Select distance": "10-20", "Par":5, "Climate":"Wind"}, 
+    {"Year":"2012", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit(%)": 15, "Left(%)": 20, "Right(%)":10, "Short(%)":20, "Long(%)":35, "Golf clubs": "Wood", "From Distance": 18, "Select distance": "10-20", "Par":5, "Climate":"Favorable climate"}, 
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit(%)": 10, "Left(%)": 10, "Right(%)":20, "Short(%)":30, "Long(%)":30, "Golf clubs": "Iron", "From Distance": 18, "Select distance": "10-20", "Par":5, "Climate":"Wind"}, 
+    {"Year":"2013", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit(%)": 15, "Left(%)": 15, "Right(%)":25, "Short(%)":15, "Long(%)":30, "Golf clubs": "Wood", "From Distance": 18, "Select distance": "10-20", "Par":5, "Climate":"Wind"}, 
+    {"Year":"2012", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit(%)": 15, "Left(%)": 20, "Right(%)":10, "Short(%)":20, "Long(%)":35, "Golf clubs": "Wood", "From Distance": 18, "Select distance": "10-20", "Par":4, "Climate":"Favorable climate"}, 
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit(%)": 10, "Left(%)": 10, "Right(%)":20, "Short(%)":30, "Long(%)":30, "Golf clubs": "Iron", "From Distance": 98, "Select distance": "90-100", "Par":4, "Climate":"Wind"}, 
+    {"Year":"2013", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit(%)": 15, "Left(%)": 15, "Right(%)":25, "Short(%)":15, "Long(%)":30, "Golf clubs": "Wood", "From Distance": 98, "Select distance": "90-100", "Par":4, "Climate":"Wind"}, 
+    {"Year":"2012", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit(%)": 15, "Left(%)": 20, "Right(%)":10, "Short(%)":20, "Long(%)":35, "Golf clubs": "Wood", "From Distance": 98, "Select distance": "90-100", "Par":4, "Climate":"Favorable climate"}, 
+    {"Year":"2015R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit(%)": 10, "Left(%)": 10, "Right(%)":20, "Short(%)":30, "Long(%)":30, "Golf clubs": "Iron", "From Distance": 98, "Select distance": "90-100", "Par":4, "Climate":"Wind"}, 
+    {"Year":"2013R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit(%)": 15, "Left(%)": 15, "Right(%)":25, "Short(%)":15, "Long(%)":30, "Golf clubs": "Wood", "From Distance": 98, "Select distance": "90-100", "Par":4, "Climate":"Wind"}, 
+    {"Year":"2012R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Hit(%)": 15, "Left(%)": 20, "Right(%)":10, "Short(%)":20, "Long(%)":35, "Golf clubs": "Wood", "From Distance": 98, "Select distance": "90-100", "Par":4, "Climate":"Favorable climate"}
+],
+
+"filterHeaders":
+    {
+        "Year":1,
+        "Select Round":0,
+        "Golf clubs":1,
+        "Select distance":0,
+        "Par":1,
+        "Climate":0
+    }
+}

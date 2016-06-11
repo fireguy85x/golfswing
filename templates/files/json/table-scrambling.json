@@ -1,0 +1,34 @@
+{
+"data":[
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "From bunker":5, "Approach":2, "Chip":4, "Par":5, "For Birdie":2, "For par":2, "Total":1, "Climate":"Wind"}, 
+    {"Year":"2014", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "From bunker":5, "Approach":2, "Chip":4, "Par":4, "For Birdie":"", "For par":"", "Total":1, "Climate":"Wind"}, 
+    {"Year":"2012", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "From bunker":8, "Approach":2, "Chip":4, "Par":4, "For Birdie":"", "For par":"", "Total":1, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "From bunker":5, "Approach":2, "Chip":4, "Par":5, "For Birdie":2, "For par":2, "Total":1, "Climate":"Wind"}, 
+    {"Year":"2014", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "From bunker":5, "Approach":2, "Chip":4, "Par":4, "For Birdie":"", "For par":"", "Total":1, "Climate":"Wind"}, 
+    {"Year":"2012", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "From bunker":8, "Approach":2, "Chip":4, "Par":4, "For Birdie":"", "For par":"", "Total":1, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "From bunker":5, "Approach":2, "Chip":4, "Par":5, "For Birdie":2, "For par":2, "Total":1, "Climate":"Wind"}, 
+    {"Year":"2014", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "From bunker":5, "Approach":2, "Chip":4, "Par":4, "For Birdie":"", "For par":"", "Total":1, "Climate":"Wind"}, 
+    {"Year":"2012", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "From bunker":8, "Approach":2, "Chip":4, "Par":4, "For Birdie":"", "For par":"", "Total":1, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "From bunker":5, "Approach":2, "Chip":4, "Par":5, "For Birdie":2, "For par":2, "Total":1, "Climate":"Wind"}, 
+    {"Year":"2014", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "From bunker":5, "Approach":2, "Chip":4, "Par":3, "For Birdie":"", "For par":"", "Total":1, "Climate":"Wind"}, 
+    {"Year":"2012", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "From bunker":8, "Approach":2, "Chip":4, "Par":3, "For Birdie":"", "For par":"", "Total":1, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "From bunker":5, "Approach":2, "Chip":4, "Par":5, "For Birdie":2, "For par":2, "Total":1, "Climate":"Wind"}, 
+    {"Year":"2014", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "From bunker":5, "Approach":2, "Chip":4, "Par":3, "For Birdie":"", "For par":"", "Total":1, "Climate":"Wind"}, 
+    {"Year":"2012", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "From bunker":8, "Approach":2, "Chip":4, "Par":3, "For Birdie":"", "For par":"", "Total":1, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "From bunker":5, "Approach":2, "Chip":4, "Par":5, "For Birdie":2, "For par":2, "Total":1, "Climate":"Wind"}, 
+    {"Year":"2014", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "From bunker":5, "Approach":2, "Chip":4, "Par":3, "For Birdie":"", "For par":"", "Total":1, "Climate":"Wind"}, 
+    {"Year":"2012", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "From bunker":8, "Approach":2, "Chip":4, "Par":3, "For Birdie":"", "For par":"", "Total":1, "Climate":"Wind"},
+    {"Year":"2015R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "From bunker":5, "Approach":2, "Chip":4, "Par":5, "For Birdie":2, "For par":2, "Total":1, "Climate":"Wind"}, 
+    {"Year":"2014R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "From bunker":5, "Approach":2, "Chip":4, "Par":3, "For Birdie":"", "For par":"", "Total":1, "Climate":"Wind"}, 
+    {"Year":"2012R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "From bunker":8, "Approach":2, "Chip":4, "Par":3, "For Birdie":"", "For par":"", "Total":1, "Climate":"Wind"}
+],
+
+"filterHeaders":
+    {
+        "Year":1,
+        "Select Round":0,
+        "Par":1,
+        "Climate":0
+        
+    }
+}

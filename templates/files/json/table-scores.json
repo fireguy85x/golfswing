@@ -1,0 +1,43 @@
+{
+"data":[
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":5, "Climate":"Favorable wind"},  
+    {"Year":"2017", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":1, "Bogey":5, "Regular Par":3, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Strokes":8,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":5, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":5, "Climate":"Favorable wind"}, 
+    {"Year":"2017", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":1, "Bogey":5, "Regular Par":3, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Strokes":8,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":5, "Climate":"Favorable wind"}, 
+    {"Year":"2017", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":1, "Bogey":5, "Regular Par":3, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Strokes":8,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":5, "Climate":"Favorable wind"}, 
+    {"Year":"2017", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":1, "Bogey":5, "Regular Par":3, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Strokes":8,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":5, "Climate":"Favorable wind"}, 
+    {"Year":"2017", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":1, "Bogey":5, "Regular Par":3, "Par":5, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Strokes":8,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":3, "Climate":"Wind"}, 
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":3, "Climate":"Favorable wind"}, 
+    {"Year":"2017", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":1, "Bogey":5, "Regular Par":3, "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Strokes":8,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":3, "Climate":"Wind"}, 
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":3, "Climate":"Favorable wind"}, 
+    {"Year":"2017", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":1, "Bogey":5, "Regular Par":3, "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Strokes":8,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":3, "Climate":"Wind"}, 
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":3, "Climate":"Favorable wind"}, 
+    {"Year":"2017", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":1, "Bogey":5, "Regular Par":3, "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Strokes":8,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":3, "Climate":"Wind"}, 
+    {"Year":"2015R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":3, "Climate":"Favorable wind"}, 
+    {"Year":"2017R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"Practice", "Strokes":5,"Birdie":1, "Bogey":5, "Regular Par":3, "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Strokes":8,"Birdie":2, "Bogey":5, "Regular Par":5, "Par":3, "Climate":"Wind"}
+],
+
+"filterHeaders":
+    {
+        "Year":1,
+        "Select Round":0,
+        "Strokes":1,
+        "Birdie":1,
+        "Bogey":1,
+        "Regular Par":1,
+        "Par": 1,
+        "Climate": 0
+    }
+}

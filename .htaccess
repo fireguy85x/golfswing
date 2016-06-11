@@ -1,0 +1,19 @@
+
+
+RewriteEngine On
+RewriteBase /
+
+#do not rewrite existing files!
+RewriteCond %{REQUEST_FILENAME} -f [OR] 
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^(.*?)$ $1 [L]
+
+#rewrite rules for admin pages
+RewriteRule ^admin/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-\.]*)$ /admin/index.php?controller=$1&action=$2 [L,QSA]
+RewriteRule ^admin/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-\.]*)$ /admin/index.php?controller=$2 [L,QSA]
+
+#rewrite rules for non admin pages
+RewriteRule ^([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-\.]*)/([a-zA-Z0-9\-]+)/$ index.php?language=$1&controller=$2&action=$3&param=$4 [L,QSA]
+RewriteRule ^([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-\.]*)$ index.php?language=$1&controller=$2&action=$3 [L,QSA]
+RewriteRule ^([a-zA-Z0-9\-]+)/([a-zA-Z0-9\-\.]*)$ index.php?language=$1&controller=$2 [L,QSA]
+RewriteRule ^([a-zA-Z0-9\-\.]*)$ index.php?language=$1 [L,QSA]

@@ -1,0 +1,49 @@
+{
+"data":[
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Average near hole":89, "From distance":97, "Select distance": "80-90", "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":89, "From distance":127, "Select distance": "120-130", "Par":4, "Climate":"Favorable wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":89, "From distance":127, "Select distance": "120-130", "Par":5, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Average near hole":89, "From distance":97, "Select distance": "80-90", "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":89, "From distance":127, "Select distance": "120-130", "Par":4, "Climate":"Favorable wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":101, "From distance":127, "Select distance": "120-130", "Par":5, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Average near hole":101, "From distance":97, "Select distance": "80-90", "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":101, "From distance":127, "Select distance": "120-130", "Par":4, "Climate":"Favorable wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":101, "From distance":127, "Select distance": "120-130", "Par":5, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Average near hole":101, "From distance":97, "Select distance": "80-90", "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":101, "From distance":127, "Select distance": "120-130", "Par":4, "Climate":"Favorable wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":101, "From distance":127, "Select distance": "120-130", "Par":5, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Average near hole":101, "From distance":97, "Select distance": "80-90", "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":101, "From distance":127, "Select distance": "120-130", "Par":4, "Climate":"Favorable wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":101, "From distance":127, "Select distance": "120-130", "Par":5, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Average near hole":125, "From distance":97, "Select distance": "80-90", "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":125, "From distance":127, "Select distance": "120-130", "Par":4, "Climate":"Favorable wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":125, "From distance":127, "Select distance": "120-130", "Par":5, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Average near hole":125, "From distance":97, "Select distance": "80-90", "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":125, "From distance":127, "Select distance": "120-130", "Par":4, "Climate":"Favorable wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":125, "From distance":127, "Select distance": "120-130", "Par":5, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Average near hole":125, "From distance":97, "Select distance": "80-90", "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":125, "From distance":127, "Select distance": "120-130", "Par":4, "Climate":"Favorable wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":125, "From distance":127, "Select distance": "120-130", "Par":5, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Average near hole":136, "From distance":97, "Select distance": "80-90", "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":136, "From distance":127, "Select distance": "120-130", "Par":4, "Climate":"Favorable wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":136, "From distance":127, "Select distance": "120-130", "Par":5, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Average near hole":136, "From distance":97, "Select distance": "80-90", "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":136, "From distance":127, "Select distance": "120-130", "Par":4, "Climate":"Favorable wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":136, "From distance":127, "Select distance": "120-130", "Par":5, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Average near hole":136, "From distance":97, "Select distance": "80-90", "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":136, "From distance":127, "Select distance": "120-130", "Par":4, "Climate":"Favorable wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":136, "From distance":127, "Select distance": "120-130", "Par":5, "Climate":"Wind"},
+    {"Year":"2015", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"MedalPlay", "Average near hole":136, "From distance":97, "Select distance": "80-90", "Par":3, "Climate":"Wind"}, 
+    {"Year":"2016R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":136, "From distance":127, "Select distance": "120-130", "Par":4, "Climate":"Favorable wind"},
+    {"Year":"2015R", "Round": "Marbella Golf Country Club 22-11-2015", "Select Round":"StableFor", "Average near hole":136, "From distance":127, "Select distance": "120-130", "Par":5, "Climate":"Wind"}
+],
+
+"filterHeaders":
+    {
+        "Year":1,
+        "Select Round":0,
+        "Select distance":0,
+        "Par":1,
+        "Climate":0
+    }
+}

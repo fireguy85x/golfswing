@@ -1,0 +1,100 @@
+{
+  "apellidos" : "Apellido1 Apellido2",
+  "clave" : "user1",
+  "es_entrenador" : "1",
+  "handicap" : "14",
+  "direccion" : "calle Pajaritos 25",
+  "provincia" : "Málaga",
+  "nombre" : "Prueba",
+  "cp" : "29010",
+  "idusuario" : "1",
+  "fechanacimiento" : "0000-00-00",
+  "comparte_resultado" : "1",
+  "localidad" : "Malaga",
+  "usuario" : "user1",
+  "id" : "1",
+  "telefono" : "655555555",
+  "categoria_jugador" : "Amateur",
+  "email" : "mnogueiratdsist",
+  "Accepted trainers" : {
+    "1" : {
+      "id" : "1",
+      "name" : "Prueba",
+      "surname" : "Apellido1 Apellido2"
+    }
+  },
+  "Invited trainers" : {
+    "1" : {
+      "id" : "2",
+      "name" : "Trainer1",
+      "surname" : "Apelle1 Apelle2"
+    }
+  },
+  "Bags" : {
+    "1" : {
+      "id" : null,
+      "pales" : null,
+      "idUser" : "1",
+      "name" : "Bolsa 1"
+    },
+    "2" : {
+      "id" : null,
+      "pales" : null,
+      "idUser" : "1",
+      "name" : "Bolsa 2"
+    }
+  },
+  "Clubs" : {
+    "1" : {
+      "rfid" : "196-124-211-81",
+      "id" : "1",
+      "idBag" : "0",
+      "name" : "palo_1",
+      "category" : "prueba"
+    },
+    "2" : {
+      "rfid" : "100-238-214-81",
+      "id" : "2",
+      "idBag" : "0",
+      "name" : "palo_2",
+      "category" : "prueba"
+    },
+    "3" : {
+      "rfid" : "196-173-214-81",
+      "id" : "3",
+      "idBag" : "0",
+      "name" : "palo_3",
+      "category" : "prueba"
+    },
+    "4" : {
+      "rfid" : "81-129-0-255",
+      "id" : "4",
+      "idBag" : "0",
+      "name" : "palo_4",
+      "category" : "prueba"
+    },
+    "5" : {
+      "rfid" : "52-49-251-81",
+      "id" : "5",
+      "idBag" : "0",
+      "name" : "palo_5",
+      "category" : "prueba"
+    },
+    "6" : {
+      "rfid" : "1111-2222-3333-4444",
+      "id" : "6",
+      "idBag" : "0",
+      "name" : "palo_6\r\n",
+      "category" : "Iron"
+    }
+  },
+  "Accepted players" : {
+    "1" : {
+      "name" : "Prueba",
+      "surname" : "Apellido1 Apellido2",
+      "idPlayer" : "1",
+      "idTrainer" : "1"
+    }
+  },
+  "Invited players" : { }
+}

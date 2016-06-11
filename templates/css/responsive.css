@@ -1,0 +1,251 @@
+/* Responsive stylesheet A-side media v.2 release: 09-06-2015 by Cornee */
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #map, #map * {
+    visibility: visible;
+  }
+  #map {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+}
+/* Desktop */
+@media screen and (min-width: 1100px){
+
+    /* Required hide/show classes for responsive */
+
+    .hide-on-desktop {
+        display: none;
+        visibility: hidden;
+    }
+
+    .show-on-desktop{
+        display: block;
+        visibility: visible;
+    }
+
+    /* Project styles*/
+
+    /* Main navigation */
+
+    #main-nav{
+        display: block!important;
+    }
+
+    /* Header */
+
+    /* Elements */
+
+    /* Footer */
+
+
+}
+
+/* Tablet */
+@media screen and (min-width: 768px) and (max-width: 1099px) {
+
+    /* Required hide/show classes for responsive */
+
+    .hide-on-tablet {
+        display: none;
+        visibility: hidden;
+    }
+
+    .show-on-tablet{
+        display: block;
+        visibility: visible;
+    }
+
+    /* Container width required for responsive layout */
+
+    .default-container-width {
+        width: 80%;
+    }
+    
+    .default-container-width-wide{
+        width: 96%;
+    }
+
+    /* Tablet responsive colums, can be used to overrule normal colums */
+
+    .tablet-column-20{
+        width: 17.61904761904762%;
+    }
+
+    .tablet-column-25 {
+        width: 22.61904761904762%;
+    }
+
+    .tablet-column-33{
+        width: 30.94904761904762%;
+    }
+
+    .tablet-column-40{
+        width: 37.61904761904762%;
+    }
+
+    .tablet-column-50 {
+        width: 47.61904761904762%;
+    }
+
+    .tablet-column-60{
+        width: 57.61904761904762%;
+    }
+
+    .tablet-column-66{
+        width: 64.2904761904762%;
+    }
+
+    .tablet-column-75 {
+        width: 72.61904761904762%;
+    }
+
+    .tablet-column-80{
+        width: 77.61904761904762%;
+    }
+
+    .tablet-column-100{
+        width: 97.61904761904762%;
+    }
+
+    /* Project styles*/
+
+    /* Main navigation */
+
+    #main-nav{
+        display: block!important;
+    }
+
+    /* Header */
+
+    /* Elements */
+
+    /* Footer */
+
+
+}
+
+/* Mobile */
+@media screen and (max-width: 767px) {
+
+    /* Required hide/show classes for responsive */
+
+    .hide-on-mobile{
+        display: none;
+        visibility: hidden;
+    }
+
+    .show-on-mobile{
+        display: block;
+        visibility: visible;
+    }
+
+    /* Container width required for responsive layout */
+
+    .default-container-width {
+        width: 80%;
+    }
+    
+    .default-container-width-wide{
+        width: 96%;
+    }
+
+    /* Responsive columns are all full width on mobile unless else defined*/
+
+    .column-20, .column-25, .column-33, .column-40, .column-50, .column-60, .column-66, .column-75, .column-80{
+        width: 97.61904761904762%;
+        margin: 0 1.19047619047619% 4.76190476190476% 1.19047619047619%;
+    }
+
+    /* Mobile responsive colums, can be used to overrule normal colums */
+
+    .mobile-column-20{
+        width: 17.61904761904762%;
+    }
+
+    .mobile-column-25 {
+        width: 22.61904761904762%;
+    }
+
+    .mobile-column-33{
+        width: 30.94904761904762%;
+    }
+
+    .mobile-column-40{
+        width: 37.61904761904762%;
+    }
+
+    .mobile-column-50 {
+        width: 47.61904761904762%;
+    }
+
+    .mobile-column-60{
+        width: 57.61904761904762%;
+    }
+
+    .mobile-column-66{
+        width: 64.2904761904762%;
+    }
+
+    .mobile-column-75 {
+        width: 72.61904761904762%;
+    }
+
+    .mobile-column-80{
+        width: 77.61904761904762%;
+    }
+
+    .mobile-column-100{
+        width: 97.61904761904762%;
+    }
+
+    /* Project styles*/
+
+    /* Main navigation */
+
+    #main-nav{
+        display: none;
+        position: absolute;
+        top: 110px;
+        z-index: 999;
+        min-width: 200px;
+        border: 1px solid #96bd0d;
+        background: #96bd0d;
+        right: 0;
+    }
+
+    #main-nav ul li a {
+        float: none;
+        margin-right: 0px;
+        display: block;
+        background: #96bd0d;
+        padding: 10px;
+        color: #fff;
+    }
+
+    #main-nav ul li a:hover{
+        background: #ccc;
+        color: #000;
+    }
+
+    /* Header */
+
+    /* Elements */
+
+    .mobile-menu-icon{
+        display: block;
+        background: #ccc;
+        padding: 5px;
+        width: 70px;
+        height: 20px;
+        cursor: pointer;
+        position: absolute;
+        right: 0;
+    }
+
+    /* Footer */
+
+}

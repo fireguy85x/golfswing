@@ -1,0 +1,100 @@
+{
+  "surname" : "Apellido1 Apellido2",
+  "password" : "user1",
+  "isTrainer" : "1",
+  "handicap" : "14",
+  "address" : "calle Pajaritos 25",
+  "province" : "Málaga",
+  "name" : "Prueba",
+  "postalCode" : "29010",
+  "profileId" : "1",
+  "birthday" : "0000-00-00",
+  "publicProfile" : "1",
+  "city" : "Malaga",
+  "id" : "1",
+  "username" : "user1",
+  "phone" : "655555555",
+  "profileCategory" : "Amateur",
+  "email" : "mnogueira@tdsist.com",
+  "acceptedTrainers" : {
+    "1" : {
+      "profileId" : "1",
+      "name" : "Prueba",
+      "surname" : "Apellido1 Apellido2"
+    }
+  },
+  "invitedTrainers" : {
+    "1" : {
+      "profileId" : "2",
+      "name" : "Trainer1",
+      "surname" : "Apelle1 Apelle2"
+    }
+  },
+  "Bags" : {
+    "1" : {
+      "bagId" : null,
+      "pales" : null,
+      "idUser" : "1", 
+      "name" : "Bolsa 1"
+    },
+    "2" : {
+      "bagId" : null,
+      "pales" : null,
+      "idUser" : "1",    
+      "name" : "Bolsa 2"
+    }
+  },
+  "golfClubs" : {
+    "1" : {
+      "rfid" : "196-124-211-81",
+      "golfClubId" : "1",
+      "bagId" : "0",
+      "name" : "palo_1",
+      "golfClubCategory" : "prueba"
+    },
+    "2" : {
+      "rfid" : "100-238-214-81",
+      "golfClubId" : "2",
+      "bagId" : "0",
+      "name" : "palo_2",
+      "golfClubCategory" : "prueba"
+    },
+    "3" : {
+      "rfid" : "196-173-214-81",
+      "golfClubId" : "3",
+      "bagId" : "0",
+      "name" : "palo_3",
+      "golfClubCategory" : "prueba"
+    },
+    "4" : {
+      "rfid" : "81-129-0-255",
+      "golfClubId" : "4",
+      "bagId" : "0",
+      "name" : "palo_4",
+      "golfClubCategory" : "prueba"
+    },
+    "5" : {
+      "rfid" : "52-49-251-81",
+      "golfClubId" : "5",
+      "bagId" : "0",
+      "name" : "palo_5",
+      "golfClubCategory" : "prueba"
+    },
+    "6" : {
+      "rfid" : "1111-2222-3333-4444",
+      "golfClubId" : "6",
+      "bagId" : "0",
+      "name" : "palo_6\r\n",
+      "golfClubCategory" : "Iron"
+    }
+  },
+  "acceptedPlayers" : {
+    "1" : {
+      "profileId" : "1",
+      "idTrainer" : "1",
+      "name" : "Prueba",
+      "surname" : "Apellido1 Apellido2"
+    }
+  },
+  "Invited players" : { }
+}

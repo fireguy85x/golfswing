@@ -1,0 +1,17 @@
+{
+"data":[
+    {"Name":"2015", "Surname": "Marbella Golf Country Club 22-11-2015", "Creation date":"StableFor", "Category": 52, "Active" : 1}, 
+    {"Name":"2015", "Surname": "Marbella Golf Country Club 22-11-2015", "Creation date":"StableFor", "Category": 52, "Active" : 1}, 
+    {"Name":"2015", "Surname": "Marbella Golf Country Club 22-11-2015", "Creation date":"StableFor", "Category": 52, "Active" : 1}, 
+    {"Name":"2015", "Surname": "Marbella Golf Country Club 22-11-2015", "Creation date":"StableFor", "Category": 52, "Active" : 1}, 
+    {"Name":"2015", "Surname": "Marbella Golf Country Club 22-11-2015", "Creation date":"StableFor", "Category": 52, "Active" : 1}, 
+    {"Name":"2015", "Surname": "Marbella Golf Country Club 22-11-2015", "Creation date":"StableFor", "Category": 52, "Active" : 1}, 
+    {"Name":"2015", "Surname": "Marbella Golf Country Club 22-11-2015", "Creation date":"StableFor", "Category": 52, "Active" : 1}
+
+],
+
+"filterHeaders":
+    {
+        "Active":1
+    }
+}
